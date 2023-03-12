@@ -8,7 +8,7 @@ To use this website, you simply need to download the files and open the index.ht
 Once you have the website open in your web browser, you can browse the menu and place orders for food.
 
 # Credits
-This website was built by [Your Name Here] as part of a web development project.
+This website was built by Borhen eddine dahech as part of a web development project.
 
 # License
 This website is licensed under the MIT License. See the LICENSE file for more information.
